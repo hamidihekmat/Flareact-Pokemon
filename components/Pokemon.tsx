@@ -11,6 +11,8 @@ export function Pokemon({ id, name, image }: IPokemon) {
           <Name>{name}</Name>
           <Image
             src={`https://jherr-pokemon.s3.us-west-1.amazonaws.com/${image}`}
+            alt={name}
+            loading="lazy"
           />
         </Wrapper>
       </a>
