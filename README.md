@@ -27,6 +27,6 @@ Deploy it to the Cloudflare [view demo](https://pokemon.demonish.workers.dev/)
 
 # Overview
 
-This app was taken from [NextJS 12.1 SSR & SSG: Everything you need to know](youtube.com/watch?v=kdXKz1UWc3E) by [Jack Herrington](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw) and migrated to Flareact Edge Render
+This app was taken from [NextJS 12.1 SSR & SSG: Everything you need to know](youtube.com/watch?v=kdXKz1UWc3E) by [Jack Herrington](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw) and migrated to Flareact by Cloudflare
 
 ### Make Sure to subscribe to his channel!
